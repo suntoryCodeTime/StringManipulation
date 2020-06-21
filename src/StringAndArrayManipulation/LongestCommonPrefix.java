@@ -1,3 +1,4 @@
+package StringAndArrayManipulation;
 
 public class LongestCommonPrefix {
 	

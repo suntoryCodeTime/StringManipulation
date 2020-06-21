@@ -1,3 +1,4 @@
+package StringAndArrayManipulation;
 /**
  * 
  * NOTE: Unless a problem explicitly states DO NOT allocate more memory

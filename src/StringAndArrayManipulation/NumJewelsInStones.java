@@ -1,3 +1,4 @@
+package StringAndArrayManipulation;
 
 public class NumJewelsInStones {
 	public static int numJewelsInStones(String J, String S) {
