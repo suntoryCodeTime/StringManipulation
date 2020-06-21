@@ -1,3 +1,10 @@
+/**
+ * 
+ * NOTE: Unless a problem explicitly states DO NOT allocate more memory
+ * for another array, feel free to use an array.
+ * 
+ * */
+
 
 public class ArrayShuffle {
 
@@ -7,8 +14,6 @@ public class ArrayShuffle {
 	        
 	        int[] shuffled = new int[2*n];
 	        
-	        //shuffled[0] = nums[0];
-	        //shuffled[nums.length-1] = num[nums.length-1];
 	        int beginning = 0;
 	        int middle = n;
 	        
